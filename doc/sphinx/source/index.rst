@@ -14,7 +14,7 @@ documentation for details.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-.. figure:: resources/img/setup_git_actions_01.png
+.. figure:: doc/sphinx/source/resources/img/1.png
    :align: center
    :width: 80%
 
